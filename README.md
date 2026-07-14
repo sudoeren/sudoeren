@@ -1,4 +1,4 @@
-Hello, this is Eren. I build apps and research vulnerabilities.
+Hello, this is Eren. I build Mobile, Web, and TUI applications.
 
 My OSS projects:
 
