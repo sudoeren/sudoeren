@@ -1,4 +1,4 @@
-Hello, this is Eren. I build things and research vulnerabilities.
+Hello, this is Eren. I build apps and research vulnerabilities.
 
 My OSS projects:
 
