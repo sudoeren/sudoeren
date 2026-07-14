@@ -1,4 +1,4 @@
-Hello, this is Eren. I build things, research vulnerabilities, and currently on the **[Merkutech](https://merkutech.github.io)** team.
+Hello, this is Eren. I build things and research vulnerabilities.
 
 My OSS projects:
 
