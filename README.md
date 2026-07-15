@@ -1,4 +1,6 @@
-Hello, this is Eren. I am a passionate software developer interested in software development, vulnerability research, and computer vision. I am also contributing to open-source projects and building my own open-source software.
+Hey, I'm Eren.
+
+Full-stack developer interested in system design, security, and building scalable software.
 
 My OSS projects:
 
