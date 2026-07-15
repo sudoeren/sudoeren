@@ -3,10 +3,10 @@ Hello, this is Eren. I am a passionate software developer interested in software
 My OSS projects:
 
 - **[eckra](https://github.com/sudoeren/eckra)** - AI-powered terminal Git assistant
-- **[karpa](https://karpa.erencakar.com)** - Privacy-first offline AI translation
-- **[fochus](https://fochus.erencakar.com)** - Productivity & focus management
+- **[karpa](https://github.com/sudoeren/karpa)** - Privacy-first offline AI translation
+- **[fochus](https://github.com/sudoeren/fochus)** - Productivity & focus management
 - **[arhus](https://github.com/sudoeren/arhus)** - Local-first security analysis for TS/JS
-- **[tadan](https://tadan.erencakar.com)** - AI compliance scanner for Meta, Google, TikTok, and Taboola
+- **[tadan](https://github.com/sudoeren/tadan)** - AI compliance scanner for Meta, Google, TikTok, and Taboola
   
 My Tools:
 
