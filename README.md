@@ -6,7 +6,7 @@ My OSS projects:
 - **[karpa](https://karpa.erencakar.com)** - Privacy-first offline AI translation
 - **[fochus](https://fochus.erencakar.com)** - Productivity & focus management
 - **[arhus](https://github.com/sudoeren/arhus)** - Local-first security analysis for TS/JS
-- **[tadan](https://github.com/sudoeren/tadan)** - AI compliance scanner for Meta, Google, TikTok, and Taboola
+- **[tadan](https://tadan.erencakar.com)** - AI compliance scanner for Meta, Google, TikTok, and Taboola
   
 My Tools:
 
