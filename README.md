@@ -1,6 +1,6 @@
 Hey, I'm Eren.
 
-Full-stack developer interested in system design, security, and building scalable software.
+Software Developer interested in system design, security, and building scalable software.
 
 My OSS projects:
 
