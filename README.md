@@ -1,34 +1,40 @@
 # Eren Çakar
 
-Software developer in Istanbul. I build local-first AI tools that keep your data on your machine, developer tools for the terminal, and Linux fixes for hardware that should just work. Studying computer engineering, leading the software team at [Merkutech](https://merkutech.github.io) (autonomous flight), and building [Complaintr](https://complaintr.com).
+Co-founder and lead of [Complaintr](https://complaintr.com), an AI customer service platform. I also lead the software team at [Merkutech](https://merkutech.github.io), where we build autonomous flight systems, and I study computer engineering in Istanbul. I care about system design, scalable architecture and security, and I ship open-source tools on the side.
 
-[Website](https://erencakar.com) · [X](https://x.com/sudoeren) · [Projects](https://erencakar.com/projects/)
+[Website](https://erencakar.com) · [Complaintr](https://complaintr.com) · [X](https://x.com/sudoeren)
+
+## Building
+
+### [Complaintr](https://complaintr.com) — Co-founder & Lead
+
+An AI customer service assistant for businesses. It answers customers on the website widget, Instagram, Telegram, Slack and GitHub from what the business has published. It turns real problems into structured reports and hands the rest to a person on the team, all in one dashboard. Customers don't need an account or a form. AI agents such as Claude and ChatGPT can report problems over MCP and the public API.
+
+Bun · Next.js 16 · PostgreSQL · MCP · Amazon Bedrock
+
+### [Merkutech](https://merkutech.github.io) — Software Team Lead
+
+Autonomous UAV software for TEKNOFEST Savaşan İHA and SUAS. We built Merkusim, a flight simulator where the real ArduPilot flight stack runs against Gazebo physics and camera feeds. Mission software that passes in simulation runs unchanged on the aircraft.
+
+ArduPilot · MAVLink · Gazebo · Python · Docker
 
 ## Highlights
 
-| Project | What it is | Stars |
-|---|---|---|
-| **[karpa](https://karpa.erencakar.com)** | Privacy-first AI translation that runs entirely on your machine with Ollama or LM Studio. Desktop app for Windows, macOS and Linux. | [![stars](https://img.shields.io/github/stars/sudoeren/karpa?style=flat-square&label=%E2%98%85&color=8da2fb)](https://github.com/sudoeren/karpa) |
-| **[sofa](https://sofa.erencakar.com)** | Stop planning in the group chat. A self-hosted space where friends ask AI for polls, trip plans and cost splitters, and use them together live. | [![stars](https://img.shields.io/github/stars/sudoeren/sofa?style=flat-square&label=%E2%98%85&color=8da2fb)](https://github.com/sudoeren/sofa) |
-| **[ema-reader](https://emareader.erencakar.com)** | Listen to your books and articles in Turkish. Reads EPUB, PDF and web pages aloud, fully on your own computer. | [![stars](https://img.shields.io/github/stars/sudoeren/ema-reader?style=flat-square&label=%E2%98%85&color=8da2fb)](https://github.com/sudoeren/ema-reader) |
-| **[arhus](https://github.com/sudoeren/arhus)** | Local-first security analysis for TypeScript and JavaScript projects. Your code never leaves your machine. | [![stars](https://img.shields.io/github/stars/sudoeren/arhus?style=flat-square&label=%E2%98%85&color=8da2fb)](https://github.com/sudoeren/arhus) |
-| **[eckra](https://github.com/sudoeren/eckra)** | AI-powered Git in the terminal: smart commits, project stories and the whole repo in one place. `brew install eckra` | [![stars](https://img.shields.io/github/stars/sudoeren/eckra?style=flat-square&label=%E2%98%85&color=8da2fb)](https://github.com/sudoeren/eckra) |
+| Project | What it is |
+|---|---|
+| **[karpa](https://karpa.erencakar.com)** | Privacy-first AI translator for Windows, macOS and Linux. Runs on local models through Ollama or LM Studio, so your documents stay on your machine. Built with Tauri. |
+| **[sofa](https://sofa.erencakar.com)** | Stop planning in the group chat. Ask for a poll, a trip plan or a cost splitter, and it appears for the whole group to edit live. Self-hosted, works with or without an AI key. |
+| **[EMA Reader](https://emareader.erencakar.com)** | Listen to your books and articles in Turkish. A desktop reader that reads EPUB, PDF and web articles aloud, entirely on your own computer. |
+| **[eckra](https://github.com/sudoeren/eckra)** | AI-powered Git in the terminal: context-aware commits, project stories, and staging, branches and remotes in one dashboard. On npm and Homebrew. |
 
-## Apps
+## More Projects
 
-- [fochus](https://fochus.erencakar.com) - Manage your productivity and focus time.
-- [stash](https://github.com/sudoeren/stash) - Your tabs, organized. A Chrome extension for editing and saving tabs.
 - [tadan](https://tadan.erencakar.com) - AI compliance scanner for Meta, Google, TikTok and Taboola ads that rewrites the risky lines.
-
-## Terminal & Developer Tools
-
-- [eckra](https://github.com/sudoeren/eckra) - AI Git assistant for the terminal.
-- [arhus](https://github.com/sudoeren/arhus) - Security analysis for TS/JS that runs locally.
+- [fochus](https://fochus.erencakar.com) - Manage your productivity and focus time.
+- [arhus](https://github.com/sudoeren/arhus) - Offline security scanner for TypeScript and JavaScript.
+- [stash](https://github.com/sudoeren/stash) - A Chrome extension for organizing and saving tabs.
 - [herdr-lazydocker](https://github.com/sudoeren/herdr-lazydocker) - Run lazydocker in a herdr split pane or its own tab.
-
-## Linux & Hardware
-
-- [starcom-gc422-driver](https://github.com/sudoeren/starcom-gc422-driver) - DKMS patch that makes the Starcom GC-422 (LetSketch WP9620C) drawing tablet work on Linux, including Arch and CachyOS.
+- [starcom-gc422-driver](https://github.com/sudoeren/starcom-gc422-driver) - DKMS patch that makes the Starcom GC-422 drawing tablet work on Linux.
 
 ## Open Source Contributions
 
