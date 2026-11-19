@@ -1,8 +1,8 @@
 # Eren Çakar
 
-Hi, I'm Eren, a software developer from Istanbul. I'm the co-founder and lead of [Complaintr](https://complaintr.com), an AI customer service platform, and I lead the software team at [Merkutech](https://merkutech.github.io), where we work on autonomous flight. I enjoy system design, scalable architecture and security, and I spend my free time building open-source tools.
+Co-founder and lead at [Complaintr](https://complaintr.com), an AI customer service platform. Software team lead at [Merkutech](https://merkutech.github.io), building autonomous flight systems. Computer engineering student focused on system design, scalable architecture and security.
 
-[Website](https://erencakar.com) · [X](https://x.com/sudoeren)
+[Website](https://erencakar.com) · [LinkedIn](https://www.linkedin.com/in/erenck/) · [X](https://x.com/sudoeren)
 
 ## Desktop Apps
 
