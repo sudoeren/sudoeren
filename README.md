@@ -1,6 +1,6 @@
 # Eren Çakar
 
-Co-founder and lead at [Complaintr](https://complaintr.com), an AI customer service platform. Software team lead at [Merkutech](https://merkutech.github.io), building autonomous flight systems. Computer engineering student focused on system design, scalable architecture and security.
+Co-founder and lead at [Complaintr](https://complaintr.com), an AI customer service platform. Computer engineering student at Istanbul Arel University, where I lead the software team at [Merkutech](https://merkutech.github.io), the university's autonomous flight systems team. Focused on system design, scalable architecture and security.
 
 [Website](https://erencakar.com) · [LinkedIn](https://www.linkedin.com/in/erenck/) · [X](https://x.com/sudoeren)
 
